@@ -16,6 +16,7 @@
 ### 2017
 
 - [4/28 - Frontrend #9 - アウトラインチョットデキル](./2017/0428-Frontrend_#9/outline-for-you.pdf)
+- [11/8 - フロントエンドゆるふわ筋トレ部 meetup vol.1 - ムダな◯◯と戦う](./2017/1108-frontend_yurufuwa_workout_meetup_vol.1/versus-superfluous-xx.pdf)
 
 ## ライセンス
 
