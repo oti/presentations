@@ -15,8 +15,12 @@
 
 ### 2017
 
+- 2/3 - まぼろしのSVG勉強会 その3 - SVG pointer-events（スライド調節中）
 - [4/28 - Frontrend #9 - アウトラインチョットデキル](./2017/0428-Frontrend_#9/outline-for-you.pdf)
+- 10/6 - まぼろしのJS勉強会 #1 - WebAPI PointerEvents（スライド調整中）
+- 11/4 - CSS Nite LP54 Coder's High - CSSをちゃんと書くためには？（スライド調整中）
 - [11/8 - フロントエンドゆるふわ筋トレ部 meetup vol.1 - ムダな◯◯と戦う](./2017/1108-frontend_yurufuwa_workout_meetup_vol.1/versus-superfluous-xx.pdf)
+- 11/17 - まぼろしのマークアップ勉強会 #1 - （スライド作成中）
 
 ## ライセンス
 
