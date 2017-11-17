@@ -20,7 +20,7 @@
 - [10/6 - まぼろしのJS勉強会 #1 - Web API Pointer Events](./2017/1006-mbrs_js_study_%231/webapi-pointer-events.pdf)
 - 11/4 - CSS Nite LP54 Coder's High - CSSをちゃんと書くためには？（スライド調整中）
 - [11/8 - フロントエンドゆるふわ筋トレ部 meetup vol.1 - ムダな◯◯と戦う](./2017/1108-frontend_yurufuwa_workout_meetup_vol.1/versus-superfluous-xx.pdf)
-- [11/17 - まぼろしのマークアップ勉強会 #1](./2017/1117-mbrs_markup_study_%231/we-dont-accept-pug-pipe.pdf)
+- [11/17 - まぼろしのマークアップ勉強会 #1 - Pugでbr使うときの "|" が堪えられないオレたちは](./2017/1117-mbrs_markup_study_%231/we-dont-accept-pug-pipe.pdf)
 
 ## ライセンス
 
