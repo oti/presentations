@@ -21,6 +21,7 @@
 - 11/4 - CSS Nite LP54 Coder's High - CSSをちゃんと書くためには？（スライド調整中）
 - [11/8 - フロントエンドゆるふわ筋トレ部 meetup vol.1 - ムダな◯◯と戦う](./2017/1108-frontend_yurufuwa_workout_meetup_vol.1/versus-superfluous-xx.pdf)
 - [11/17 - まぼろしのマークアップ勉強会 #1 - Pugでbr使うときの "|" が堪えられないオレたちは](./2017/1117-mbrs_markup_study_%231/we-dont-accept-pug-pipe.pdf)
+- [12/11 - UIT#1 フロントエンドふりかえり 2017 - マークアップチャントシテル？](./2017/1211-uit%231/can-you-markup.pdf)
 
 ### 2018
 
