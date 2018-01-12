@@ -22,6 +22,10 @@
 - [11/8 - フロントエンドゆるふわ筋トレ部 meetup vol.1 - ムダな◯◯と戦う](./2017/1108-frontend_yurufuwa_workout_meetup_vol.1/versus-superfluous-xx.pdf)
 - [11/17 - まぼろしのマークアップ勉強会 #1 - Pugでbr使うときの "|" が堪えられないオレたちは](./2017/1117-mbrs_markup_study_%231/we-dont-accept-pug-pipe.pdf)
 
+### 2018
+
+- [1/12 - まぼろしのJS勉強会 #2 - ジャックしたいけどしたくない](./2018/0112-mbrs_js_study_%232/why-scrolljack.pdf)
+
 ## ライセンス
 
 特に考えてないので規定していませんが、人のものを盗むのはやめましょう。
