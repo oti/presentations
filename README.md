@@ -28,6 +28,9 @@
 - [1/12 - まぼろしのJS勉強会 #2 - ジャックしたいけどしたくない](./2018/0112-mbrs_js_study_%232/why-scrolljack.pdf)
 - [5/25 - まぼろしのマークアップ勉強会 #3 - aria-labelはただつけるだけじゃなくって](./2018/0525-mbrs_markup_study_%233/more-better-aria-label.pdf)
 - 9/29 - CSS Nite Lp58 Coder's High - 現場で役立つCSSアニメーション
+- 10/19 - DIST.23 - マークアップをパワーアップするWAI-ARIA
+  - @masuP9 とペア登壇。
+  - リポジトリは https://github.com/masuP9/dist23
 
 ## ライセンス
 
