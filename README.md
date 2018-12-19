@@ -31,6 +31,9 @@
 - [10/19 - DIST.23 - マークアップをパワーアップするWAI-ARIA](https://dist.connpass.com/event/100857/)
   - @masuP9 とペア登壇。
   - リポジトリは https://github.com/masuP9/dist23
+- [11/25 - HTML5 Conference 2018 E3 「セマンティクスの作り方、これまで、今、そして未来」](https://events.html5j.org/conference/2018/11/session/#e3)
+  - @masuP9 とペア登壇
+  - リポジトリは https://github.com/masuP9/html5conf2018
 
 ## ライセンス
 
