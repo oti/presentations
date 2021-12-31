@@ -43,6 +43,10 @@
 
 - [2/15 - DIST 6周年記念イベント - Web Creation in Society](https://docs.google.com/presentation/d/1kVz4fZFrXaROByBzQSP7SzTLAO8U4dRdE9CDYlQXGmM/edit?usp=sharing)
 
+### 2021
+
+何もしていない
+
 ## ライセンス
 
 特に考えてないので規定していませんが、人のものを盗むのはやめましょう。
